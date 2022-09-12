@@ -43,6 +43,7 @@ const SLink = styled(NavLink)`
     color: white;
     font-size: 18px;
 
+
     svg{
         color: white;
         font-size: 24px;
